@@ -1,0 +1,6 @@
+safeGet Main/main
+database /tmp/bug.sqlite
+sql main.sql
+
+$/option
+main
